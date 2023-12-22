@@ -4,14 +4,17 @@ body {
 
 h1 {
     color:white;
+    font-size: 2.5vw;
 }
 
 h2 {
     color: white;
+    font-size: 2.5vw;
 }
 
 h3.intro {
     color: rgb(0, 128, 87);
+    font-size: 2.5vw;
 }
 
 .navbar {
