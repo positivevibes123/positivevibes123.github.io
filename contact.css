@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(32, 32, 32);
 }
 
 h1 {
@@ -21,4 +21,10 @@ h2 {
 .navbar {
     overflow: hidden;
     background-color:black;
+}
+
+a {
+    font-size: 1.5vw;
+    color: white;
+    text-decoration: none;
 }
