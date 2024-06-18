@@ -25,11 +25,11 @@ p {
     text-align: center;
 }
 
-/*a {
+a {
     font-size: 1.5vw;
     color: white;
     text-decoration: none;
-}*/
+}
 
 .container {
     display: grid;
